@@ -1,0 +1,22 @@
+{
+  "name": "tunnelproxy",
+  "version": "0.1.0",
+  "description": "A proxy project to deploy a proxy server using node-http-proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandro-Figueiras/TunnelProxy.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Alejandro-Figueiras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandro-Figueiras/TunnelProxy/issues"
+  },
+  "homepage": "https://github.com/Alejandro-Figueiras/TunnelProxy#readme"
+}
